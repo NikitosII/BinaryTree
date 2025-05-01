@@ -37,15 +37,15 @@
     ```
 3. Скомпилируйте проект:
     ```sh
-    g++ -o main BinaryTree.cpp Node.cpp Tree.cpp
+    g++ -o BinaryTree BinaryTree.cpp Node.cpp Tree.cpp
     ```
 4. Запустите программу, указав путь к файлу с данными:
     ```sh
-    ./main <путь к файлу>
+    ./BinaryTree <путь к файлу>
     ```
     Например:
     ```sh
-    ./main data.txt
+    ./BinaryTree data.txt
     ```
     
 ### Пример использования
